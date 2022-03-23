@@ -4,9 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultitenantExample.MvcApplication", "src\MultitenantExample.MvcApplication\MultitenantExample.MvcApplication.csproj", "{6F1BD5E2-8195-40AD-85B5-CF1BFB3CCE7F}"
-EndProject
 
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiExample.OwinSelfHost", "src\WebApiExample.OwinSelfHost\WebApiExample.OwinSelfHost.csproj", "{07EC4968-EE0B-4EA9-9ED8-165CED3BB62B}"
+EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
