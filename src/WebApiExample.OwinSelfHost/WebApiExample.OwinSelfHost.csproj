@@ -8,6 +8,8 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.0.0" />
+    <PackageReference Include="BTIInbox.Api.Models" Version="1.0.1" />
+   
     <PackageReference Include="Autofac.Owin" Version="6.0.0" />
     <PackageReference Include="Autofac.WebApi2" Version="6.0.0" />
     <PackageReference Include="Autofac.WebApi2.Owin" Version="6.0.0" />
